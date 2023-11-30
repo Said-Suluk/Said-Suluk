@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Said Suluk</h1>
 <h3 align="center">A passionate frontend developer from Turkiye</h3>
-<img align="right" alt"Coding" witdh="400" src="https://wallpapercave.com/w/wp1904081">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=said-suluk&label=Profile%20views&color=0e75b6&style=flat" alt="said-suluk" /> </p>
 
